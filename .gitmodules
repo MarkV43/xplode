@@ -1,0 +1,9 @@
+[submodule "xplode-core"]
+	path = xplode-core
+	url = https://github.com/MarkV43/xplode-core.git
+[submodule "xplode-wasm"]
+	path = xplode-wasm
+	url = https://github.com/MarkV43/xplode-wasm.git
+[submodule "xplode-web"]
+	path = xplode-web
+	url = https://github.com/MarkV43/xplode-web.git
